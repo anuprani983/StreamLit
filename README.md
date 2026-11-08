@@ -12,8 +12,7 @@ The project performs an 80/20 stratified train-test split with `random_state=42`
 
 ## c. GitHub Repository Link
 
-Repository: https://github.com/RavinderSingh1980/ClassificationModels.git
-
+Repository: https://github.com/anuprani983/StreamLit.git
 ## d. Models used
 
 The following weighted metrics were calculated on the held-out 20% test set. AUC is multiclass weighted one-vs-rest AUC.
